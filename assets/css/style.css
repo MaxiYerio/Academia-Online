@@ -1,7 +1,7 @@
 body {
-  font-family: "Sedan", serif;
-  font-weight: 400;
-  font-style: normal;
+  font-family: "Playfair Display", serif;
+  font-weight: 700;
+  font-style: italic;
   margin: 0;
   padding: 0;
 }
@@ -27,7 +27,7 @@ a {
 
 .title {
   font-family: 'Roboto', sans-serif;
-  font-size: 1.2em;
+  font-size: 1.3em;
   color: #1c4c96;
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -36,9 +36,9 @@ a {
 
 .text {
   font-family: 'Open Sans', sans-serif;
-  font-size: 1em;
+  font-size: 1.09em;
   line-height: 2;
-  color: #000000;
+  color: #2b2b2b;
   margin-bottom: 20px;
 }
 
@@ -116,6 +116,7 @@ section {
 
 .footer-copy p {
   margin: 0;
+  color: white;
 }
 
 
